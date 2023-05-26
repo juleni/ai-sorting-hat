@@ -1,0 +1,11 @@
+1.) How To Create A Budget App With React
+--------------------------------------------------------------------
+https://www.youtube.com/watch?v=yz8x71BiGXg&list=RDLVvFNfZdUEI6c&index=24  (1hod)
+
+- npx create-react-app budget-app
+- npm install gh-pages
+
+
+Deploy react app to GitHub pages:
+---------------------------------
+https://www.makeuseof.com/how-to-deploy-react-app-with-github-pages/
