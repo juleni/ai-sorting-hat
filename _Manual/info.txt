@@ -1,9 +1,10 @@
-1.) How To Create A Budget App With React
+1.) Make your own AI chatbot app with ChatGPT and Next.js, tutorial for beginners
 --------------------------------------------------------------------
-https://www.youtube.com/watch?v=yz8x71BiGXg&list=RDLVvFNfZdUEI6c&index=24  (1hod)
+https://www.youtube.com/watch?v=1h79E7xeAKc  (42:16)
 
-- npx create-react-app budget-app
-- npm install gh-pages
+Installation: see https://github.com/vercel/examples/blob/main/solutions/ai-chatgpt/README.md
+
+- pnpm create next-app --example https://github.com/vercel/examples/tree/main/solutions/ai-chatgpt
 
 
 Deploy react app to GitHub pages:
