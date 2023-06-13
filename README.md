@@ -1,6 +1,8 @@
-# AI Chat GPT-3 example
-
+# AI Sorting Hat - OpenAI Chat GPT-3.5 example
+GPT Sorting Hat that is going to sort you in one of Hogwarts houses by asking questions.
 This example shows how to implement a simple chat bot using Next.js, API Routes, and [OpenAI ChatGPT API](https://beta.openai.com/docs/api-reference/completions/create).
+
+### Demo: https://ai-sorting-hat.vercel.app/
 
 ### Components
 
